@@ -9,7 +9,7 @@ Content in the first column | Content in the second column
 
 
 ### 1. Inverted Pendulum
-![image](images/invertedPendulumPreface.PNG)
+![invertedPendulumPreface](/images/invertedPendulumPreface.PNG)
 
 ## Internship Projects
 
