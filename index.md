@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## University Projects
+1. Inverted Pendulum
+![InvertedPendulumPreface](https://drive.google.com/open?id=0B1C24JSrUbQWeE5ZOWpMTDFPcDg)
+
+## Internship Projects
 
 You can use the [editor on GitHub](https://github.com/stryt2/stryt2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
