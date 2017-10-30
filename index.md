@@ -1,6 +1,15 @@
+# Ting-Chen Shang
 ## University Projects
+
+University Projects
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
 ### 1. Inverted Pendulum
-![image](./invertedPendulumPreface.PNG)
+![image](./images/invertedPendulumPreface.PNG)
 
 ## Internship Projects
 
