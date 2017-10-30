@@ -1,6 +1,6 @@
 ## University Projects
 1. Inverted Pendulum
-![image](invertedPendulumPreface.PNG)
+![image](./invertedPendulumPreface.PNG)
 
 ## Internship Projects
 
